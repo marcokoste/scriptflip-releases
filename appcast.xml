@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Companion Updates</title>
+    <title>Companion</title>
     <link>https://github.com/marcokoste/companion-updates</link>
-    <description>Update feed for Companion</description>
+    <description>Automatic updates for Companion</description>
     <language>en-us</language>
+    <item>
+      <title>Version 1.0.1</title>
+      <description><![CDATA[
+**Companion v1.0.1**
+
+[Download](https://github.com/marcokoste/companion-updates/releases/download/v1.0.1/Companion-1.0.1.zip)
+
+      ]]></description>
+      <pubDate>Mon, 08 Dec 2025 01:35:34 GMT</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/marcokoste/companion-updates/releases/download/v1.0.1/Companion-1.0.1.zip"
+                  sparkle:version="1.0.1"
+                  sparkle:shortVersionString="1.0.1"
+                  length="337257619"
+                  type="application/zip"/>
+    </item>
   </channel>
 </rss>
