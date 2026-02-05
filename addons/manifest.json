@@ -40,8 +40,8 @@
       "platforms": {
         "universal": {
           "url": "https://github.com/marcokoste/companion-updates/releases/download/cleandl-v1.0.0/cleandl-1.0.0.tar.gz",
-          "size": 0,
-          "sha256": "PENDING_BUILD"
+          "size": 3430237,
+          "sha256": "ed09c8c934da1ab5345a8b6210806364a40c3c297f380a875d9f1bdaa24f30a5"
         }
       }
     }
