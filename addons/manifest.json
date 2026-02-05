@@ -1,0 +1,49 @@
+{
+  "addons": {
+    "scenex": {
+      "name": "SceneX",
+      "description": "ML-powered video scene detection using PySceneDetect + BaSSL neural network",
+      "author": "Marco Cesare",
+      "currentVersion": "1.0.0",
+      "minCompanionVersion": "2.0.0",
+      "changelog": "https://github.com/marcokoste/companion-updates/releases",
+      "features": [
+        "Shot boundary detection via PySceneDetect",
+        "Scene segmentation using BaSSL ML model",
+        "GPU acceleration (MPS on Apple Silicon)",
+        "Dialogue-aware scene grouping"
+      ],
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/marcokoste/companion-updates/releases/download/scenex-v1.0.0/scenex-1.0.0-darwin-arm64.tar.gz",
+          "size": 457659776,
+          "sha256": "92b36d74abc2a2c2edcd99010fc1490163550ac022037c14c09716a3ef60faf9"
+        },
+        "darwin-x64": {
+          "url": "https://github.com/marcokoste/companion-updates/releases/download/scenex-v1.0.0/scenex-1.0.0-darwin-x64.tar.gz",
+          "size": 0,
+          "sha256": "PENDING_BUILD"
+        }
+      }
+    },
+    "cleandl": {
+      "name": "CleanDL",
+      "description": "Dialogue list cleaning and processing utilities",
+      "author": "Marco Cesare",
+      "currentVersion": "1.0.0",
+      "minCompanionVersion": "1.0.0",
+      "features": [
+        "Character name normalization",
+        "Dialogue line cleanup",
+        "Scene header detection"
+      ],
+      "platforms": {
+        "universal": {
+          "url": "https://github.com/marcokoste/companion-updates/releases/download/cleandl-v1.0.0/cleandl-1.0.0.tar.gz",
+          "size": 0,
+          "sha256": "PENDING_BUILD"
+        }
+      }
+    }
+  }
+}
