@@ -10,10 +10,10 @@
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/scriptflip-releases/main/releases/shortquts-v1.2.2.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 07 Feb 2026 21:55:43 -0800</pubDate>
             <enclosure url="https://github.com/marcokoste/scriptflip-releases/releases/download/shortquts-v1.2.2/ScriptFlip.ShortQuts-1.2.2.zip"
-                       sparkle:edSignature="b+MIuYp/zFAur0lLIyPOr4SNGj3yNoSplGN4FUmte5HRUpjfunAV3Zs/fTpOzyhgb9oyOkJ+AWSdnsm8nZ5yDA=="
+                       sparkle:edSignature="2qhy+A8CjNWjUdrz0Ui6/4tkHT1HrOQWx0+RECYmXymIvI1MAd2QqYF/+UT1uwvXx70Kbr2GmI35L4Pz5/4lCg=="
                        sparkle:version="1.2.2"
                        sparkle:shortVersionString="1.2.2"
-                       length="9865398"
+                       length="9909311"
                        type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
