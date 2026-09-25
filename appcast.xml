@@ -1,85 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>ShortQuts's Changelog</title>
-        <link>https://raw.githubusercontent.com/marcokoste/shortquts-updates/main/appcast.xml</link>
+        <link>https://downloads.scriptflip.digital/shortquts/stable/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
-        <item>
+        <item><title>Version 1.3.0</title><sparkle:releaseNotesLink>https://downloads.scriptflip.digital/shortquts/releases/1.3.0/release-notes.html</sparkle:releaseNotesLink><pubDate>Fri, 25 Sep 2026 18:08:24 +0000</pubDate><enclosure url="https://downloads.scriptflip.digital/shortquts/releases/1.3.0/ScriptFlip.ShortQuts-1.3.0.zip" sparkle:version="1.3.0" sparkle:shortVersionString="1.3.0" length="9895387" type="application/octet-stream" sparkle:edSignature="AilLGVPRFlMFUtvE+oTExhtMMxEmvZn9c4EwaX0JnqxOnlH3PLV0a3yxTg0NXZCylGpkO17+9HpmgBQV8TdrCw==" /><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion></item><item>
             <title>Version 1.2.3</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/scriptflip-releases/main/releases/shortquts-v1.2.3.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 04 Apr 2026 17:36:28 -0700</pubDate>
-            <enclosure url="https://github.com/marcokoste/scriptflip-releases/releases/download/shortquts-v1.2.3/ScriptFlip.ShortQuts-1.2.3.zip"
-                       sparkle:version="1.2.3"
-                       sparkle:shortVersionString="1.2.3"
-                       length="9890867"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/marcokoste/scriptflip-releases/releases/download/shortquts-v1.2.3/ScriptFlip.ShortQuts-1.2.3.zip" sparkle:version="1.2.3" sparkle:shortVersionString="1.2.3" length="9890867" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.2.2</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/scriptflip-releases/main/releases/shortquts-v1.2.2.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 07 Feb 2026 23:41:57 -0800</pubDate>
-            <enclosure url="https://github.com/marcokoste/scriptflip-releases/releases/download/shortquts-v1.2.2/ScriptFlip.ShortQuts-1.2.2.zip"
-                       sparkle:version="1.2.2"
-                       sparkle:shortVersionString="1.2.2"
-                       length="9909640"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/marcokoste/scriptflip-releases/releases/download/shortquts-v1.2.2/ScriptFlip.ShortQuts-1.2.2.zip" sparkle:version="1.2.2" sparkle:shortVersionString="1.2.2" length="9909640" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.2.1</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/shortquts-updates/main/releases/1.2.1.html</sparkle:releaseNotesLink>
             <pubDate>Thu, 18 Dec 2025 10:11:53 -0800</pubDate>
-            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.2.1/ScriptFlip.ShortQuts-1.2.1.zip"
-                       sparkle:version="1.2.1"
-                       sparkle:shortVersionString="1.2.1"
-                       length="9941065"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.2.1/ScriptFlip.ShortQuts-1.2.1.zip" sparkle:version="1.2.1" sparkle:shortVersionString="1.2.1" length="9941065" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.2.0</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/shortquts-updates/main/releases/1.2.0.html</sparkle:releaseNotesLink>
             <pubDate>Wed, 10 Dec 2025 17:29:00 -0800</pubDate>
-            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.2.0/ScriptFlip.ShortQuts-1.2.0.zip"
-                       sparkle:version="1.2.0"
-                       sparkle:shortVersionString="1.2.0"
-                       length="9940468"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.2.0/ScriptFlip.ShortQuts-1.2.0.zip" sparkle:version="1.2.0" sparkle:shortVersionString="1.2.0" length="9940468" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.1.7</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/shortquts-updates/main/releases/1.1.7.html</sparkle:releaseNotesLink>
             <pubDate>Mon, 08 Dec 2025 17:54:50 -0800</pubDate>
-            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.1.7/ScriptFlip.ShortQuts-1.1.7.zip"
-                       sparkle:version="1.1.7"
-                       sparkle:shortVersionString="1.1.7"
-                       length="9940578"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.1.7/ScriptFlip.ShortQuts-1.1.7.zip" sparkle:version="1.1.7" sparkle:shortVersionString="1.1.7" length="9940578" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.1.6</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/shortquts-updates/main/releases/1.1.6.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 06 Dec 2025 22:31:14 -0800</pubDate>
-            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.1.6/ScriptFlip.ShortQuts-1.1.6.zip"
-                       sparkle:version="1.1.6"
-                       sparkle:shortVersionString="1.1.6"
-                       length="9940548"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.1.6/ScriptFlip.ShortQuts-1.1.6.zip" sparkle:version="1.1.6" sparkle:shortVersionString="1.1.6" length="9940548" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.1.5</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/shortquts-updates/main/releases/1.1.5.html</sparkle:releaseNotesLink>
             <pubDate>Sat, 06 Dec 2025 14:49:25 -0800</pubDate>
-            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.1.5/ScriptFlip.ShortQuts-1.1.5.zip"
-                       sparkle:version="1.1.5"
-                       sparkle:shortVersionString="1.1.5"
-                       length="9940648"
-                       type="application/octet-stream" />
+            <enclosure url="https://github.com/marcokoste/shortquts-updates/releases/download/1.1.5/ScriptFlip.ShortQuts-1.1.5.zip" sparkle:version="1.1.5" sparkle:shortVersionString="1.1.5" length="9940648" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
